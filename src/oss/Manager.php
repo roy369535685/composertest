@@ -1,6 +1,6 @@
 <?php
 /**yaochuanliang**/
-namespace yao\composertest\oss;
+namespace composertest\oss;
 
 class Manager{
 	
